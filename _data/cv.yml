@@ -1,0 +1,31 @@
+cv:
+  name: Chao Peng Ji
+  location: Add location
+  email:
+  social_networks:
+    - network: GitHub
+      username: M1eraki
+  sections:
+    education:
+      - institution: Add institution
+        area: Add field
+        degree: Add degree
+        start_date:
+        end_date:
+        highlights:
+          - Add thesis, supervisor, or honors.
+    research_interests:
+      - label: Interests
+        details: AI for science; reproducible workflows; scientific communication.
+    experience:
+      - company: Add affiliation
+        position: Researcher
+        start_date:
+        end_date:
+        highlights:
+          - Add role, project, or achievement.
+    publications:
+      - title: Add publications in `_bibliography/papers.bib`
+        authors: Chao Peng Ji
+        journal: Add venue
+        date:
