@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://M1eraki.github.io/sitemap.xml
